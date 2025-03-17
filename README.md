@@ -4,7 +4,7 @@ program. It adheres to principles of clarity, readability, neat writing, and dat
 
 Assembler Stages
 
-The assembler works in four main stages:
+### The assembler works in four main stages:
 
 ## **1. Pre-Processing**
 The pre-assembler reads the source file line by line and identifies micro definitions. When a
